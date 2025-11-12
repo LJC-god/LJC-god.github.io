@@ -1,0 +1,1 @@
+# LJC-god.github.io
