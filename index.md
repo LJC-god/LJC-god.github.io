@@ -1,10 +1,7 @@
 ---
-layout: post
-title: "Hello World"
-date: 2025-01-01 12:00:00 +0800
-categories: [life]
+layout: home
+title: "首页"
 ---
 
-这是我的第一篇博客文章。
-
-以后我会在这里写一些关于编程、工具折腾和日常随笔的内容。
+欢迎来到我的博客 🎉  
+这里会记录一些关于 Python、开发和生活的碎碎念。
