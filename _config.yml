@@ -1,1 +1,11 @@
+title: "Salt 的博客"
+description: "记录一些代码和生活"
+author: "Salt"
+# 使用 GitHub Pages 支持的 Minima 主题（gem 打包主题）
+theme: minima
+
+# 站点 URL（可以先不填，或者后面再改）
+# url: "https://你的GitHub用户名.github.io"
+
+# 可选：社交账号、页脚信息、语言等后面再慢慢加
 
